@@ -1,0 +1,13 @@
+h2{
+    background-color: plum;
+    color:aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 72px;
+    text-align: center;
+}
+
+ul li{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 32px;
+    color:blueviolet;
+}
